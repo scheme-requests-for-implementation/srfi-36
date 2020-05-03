@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=exceptions][Exceptions]], [[https://srfi.schemers.org/?keywords=i/o][I/O]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-36/][SRFI 36]]: I/O Conditions, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
